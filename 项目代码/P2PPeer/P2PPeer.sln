@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P2PPeer", "P2PPeer\P2PPeer.vcxproj", "{09B4E175-A7C9-4399-A36D-2B96A60D2E15}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P2PPeerTest", "P2PPeerTest\P2PPeerTest.vcxproj", "{8BCB697D-8923-47B8-90CC-852B53CFC94C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09B4E175-A7C9-4399-A36D-2B96A60D2E15}.Debug|Win32.ActiveCfg = Debug|Win32
+		{09B4E175-A7C9-4399-A36D-2B96A60D2E15}.Debug|Win32.Build.0 = Debug|Win32
+		{09B4E175-A7C9-4399-A36D-2B96A60D2E15}.Release|Win32.ActiveCfg = Release|Win32
+		{09B4E175-A7C9-4399-A36D-2B96A60D2E15}.Release|Win32.Build.0 = Release|Win32
+		{8BCB697D-8923-47B8-90CC-852B53CFC94C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8BCB697D-8923-47B8-90CC-852B53CFC94C}.Debug|Win32.Build.0 = Debug|Win32
+		{8BCB697D-8923-47B8-90CC-852B53CFC94C}.Release|Win32.ActiveCfg = Release|Win32
+		{8BCB697D-8923-47B8-90CC-852B53CFC94C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
